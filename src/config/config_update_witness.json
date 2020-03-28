@@ -1,0 +1,16 @@
+[
+  {
+    "key": "",
+    "update_witness": {
+      "owner": "",
+      "url": "",
+      "block_signing_key": "",
+      "props": {
+        "account_creation_fee": "3.000 STEEM",
+        "maximum_block_size": 65536,
+        "sbd_interest_rate": 0
+      },
+      "fee": "0.000 STEEM"
+    }
+  }
+]

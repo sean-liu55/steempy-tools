@@ -1,0 +1,42 @@
+[
+     
+    {
+        "key": "",
+        "update_account": {
+            "account":"",
+            "owner": {
+                "weight_threshold": 1,
+                "account_auths": [],
+                "key_auths": [
+                    [
+                        "",
+                        1
+                    ]
+                ]
+            },
+            "active": {
+                "weight_threshold": 1,
+                "account_auths": [],
+                "key_auths": [
+                    [
+                        "",
+                        1
+                    ]
+                ]
+            },
+            "posting": {
+                "weight_threshold": 1,
+                "account_auths": [],
+                "key_auths": [
+                    [
+                        "",
+                        1
+                    ]
+                ]
+            },
+            "memo_key":   "",
+            "json_metadata": ""
+        }
+    }
+
+]

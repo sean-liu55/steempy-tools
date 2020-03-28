@@ -1,0 +1,11 @@
+[
+     
+    {
+        "key": "",
+        "delegate_vest": {
+            "delegator": "sender",
+            "delegatee": "receiver",
+            "vesting_shares": "0 VESTS"
+        }
+    }
+]
