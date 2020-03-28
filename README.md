@@ -18,10 +18,10 @@ For example, you need to vote a witness, just modify "config_vote_witness.json" 
 ```
 [
   {
-    "key": "",
+    "key": "5KhzBw1YkwCZikR4C4uBwM9esFnnbA6vrvQb3zATPmFywdtktAJ",
     "vote_witness": {
-      "account": "",
-      "witness": "",
+      "account": "account1",
+      "witness": "witness1",
       "approve": true
     }
   }

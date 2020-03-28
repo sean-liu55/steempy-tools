@@ -2,12 +2,24 @@
 
    
     {
-        "key": "",
+        "key": "5KhzBw1YkwCZikR4C4uBwM9esFnnbA6vrvQb3zATPmFywdtktAJ",
         "withdraw_vesting": {
-            "account": "",
+            "account": "account1",
             "vesting_shares": "0 VESTS"
         },
-        "SetWithdrawVestingRouteList": [
+         "SetWithdrawVestingRouteList": [
+            {
+                "from_account": "account1",
+                "to_account": "account2",
+                "percent": "2000",
+                "auto_vest": 0
+            },
+            {
+                "from_account": "account1",
+                "to_account": "account3",
+                "percent": "1000",
+                "auto_vest": 0
+            }
         ]
     }
 ]

@@ -1,10 +1,10 @@
 [
   {
-    "key": "",
+    "key": "5KhzBw1YkwCZikR4C4uBwM9esFnnbA6vrvQb3zATPmFywdtktAJ",
     "update_witness": {
-      "owner": "",
-      "url": "",
-      "block_signing_key": "",
+      "owner": "account1",
+      "url": "url",
+      "block_signing_key": "STM85zQLkaF8tY8K7Pbo6Pvn7W69rEAFYtSSc7niqoBB1DDmaTAcJ",
       "props": {
         "account_creation_fee": "3.000 STEEM",
         "maximum_block_size": 65536,
